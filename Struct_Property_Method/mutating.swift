@@ -1,4 +1,3 @@
-/*
 struct Person {
   var name: String
 
@@ -12,4 +11,5 @@ var person = Person(name: "Cho")
 print(person.name)
 person.makeAnonymous()
 print(person.name)
-*/
+
+
